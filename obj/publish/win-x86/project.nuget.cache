@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "K0J2/aJlkP29A7QnR4jLgnzKgzx+kjwB+XJfsotSRS4YD4jOo9mggyWlZJlb+2QvsgAYWjZikzMhSL/4n7WT8w==",
+  "success": true,
+  "projectFilePath": "D:\\kodebi da ambebi\\NGROK BruteForce\\NGROK BruteForce\\NGROK BruteForce.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\idkid\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.20\\microsoft.netcore.app.runtime.win-x86.3.1.20.nupkg.sha512",
+    "C:\\Users\\idkid\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.20\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.20.nupkg.sha512",
+    "C:\\Users\\idkid\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.20\\microsoft.aspnetcore.app.runtime.win-x86.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
